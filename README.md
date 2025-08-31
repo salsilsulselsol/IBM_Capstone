@@ -31,7 +31,6 @@ Pada pengembangan project ini, saya menggunakan IBM Granite untuk beberapa keper
 - Membantu proses debugging kode agar lebih efisien dan cepat menemukan error.
 - Melengkapi dokumentasi dan komentar pada kode agar lebih mudah dipahami.
 - Memberikan saran perbaikan dan optimasi pada struktur kode.
-- Membantu integrasi dengan library eksternal seperti MySQL Connector.
-- Memudahkan refactoring dan penataan ulang kode.
+- Memudahkan refactoring dan penataan ulang kode biar konsisten kodenya.
 
 IBM Granite sangat membantu dalam meningkatkan produktivitas dan kualitas kode selama pengembangan project ini.
