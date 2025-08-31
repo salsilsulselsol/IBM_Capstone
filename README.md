@@ -1,5 +1,7 @@
 # IBM_Capstone_Project_Mini_Game
 
+Monster Fish Hunt adalah sebuah mini game bertema petualangan bawah laut, di mana pemain berperan sebagai pemburu ikan monster dengan berbagai tantangan dan rintangan. Game ini menggabungkan elemen aksi, strategi, dan visual retro, serta terintegrasi dengan database MySQL untuk penyimpanan skor dan data pemain. Proyek ini dikembangkan sebagai bagian dari IBM Capstone dengan memanfaatkan IBM Granite untuk mendukung proses coding, debugging, dan dokumentasi.
+
 # Persiapan:
 
 - Nyalakan mySQL di Xampp atau sejenisnya
